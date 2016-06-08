@@ -2,9 +2,9 @@
   "name": "convertidor",
   "version": "0.1.0",
   "description": "Simple convertidor de unidades de temperatura",
-  "main": "server.js",
+  "main": "app/converter.js",
   "scripts": {
-    "test": ""
+    "test": "mocha"
   },
   "author": "Sebastian",
   "license": "ISC",
