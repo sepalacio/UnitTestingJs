@@ -1,0 +1,15 @@
+{
+  "name": "convertidor",
+  "version": "0.1.0",
+  "description": "Simple convertidor de unidades de temperatura",
+  "main": "server.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "Sebastian",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  }
+}
